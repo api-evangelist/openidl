@@ -7,9 +7,9 @@ position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Insurance
-  - Data
   - Blockchain
+  - Data
+  - Insurance
   - Linux Foundation
 created: '2026-03-16'
 modified: '2026-03-16'
@@ -23,8 +23,8 @@ apis:
       API for accessing openIDL resources and frameworks for standardized, blockchain-based insurance data sharing between carriers and regulators.
     humanURL: https://openidl.org/
     tags:
-      - Insurance
       - Data
+      - Insurance
     properties:
       - type: Documentation
         url: https://openidl.org/
