@@ -29,6 +29,8 @@ apis:
       - type: Documentation
         url: https://openidl.org/
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/openidl
   - type: Documentation
     name: openIDL Documentation
     description: Official documentation for openIDL.
