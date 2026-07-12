@@ -29,6 +29,8 @@ apis:
       - type: Documentation
         url: https://openidl.org/
 common:
+  - type: DomainSecurity
+    url: security/openidl-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/openidl
   - type: Documentation
@@ -39,6 +41,8 @@ common:
     name: openIDL GitHub
     description: Source code and repositories for openIDL.
     url: https://github.com/openidl-org
+  - url: https://openidl.org/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: info@apievangelist.com
