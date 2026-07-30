@@ -3,9 +3,21 @@ name: openIDL
 description: >-
   openIDL (Open Insurance Data Link) is a Linux Foundation project developing standardized, interoperable data frameworks for the insurance industry. It uses blockchain technology to enable secure, privacy-preserving data sharing between insurance carriers and regulators.
 type: Index
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+  - plans
+  generated: '2026-07-22'
+  method: derived
 position: Consumer
 access: 3rd-Party
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/openidl.png
 tags:
   - Blockchain
   - Data
