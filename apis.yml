@@ -1,7 +1,8 @@
 aid: openidl
 name: openIDL
-description: >-
-  openIDL (Open Insurance Data Link) is a Linux Foundation project developing standardized, interoperable data frameworks for the insurance industry. It uses blockchain technology to enable secure, privacy-preserving data sharing between insurance carriers and regulators.
+description: openIDL (Open Insurance Data Link) is a Linux Foundation project developing standardized,
+  interoperable data frameworks for the insurance industry. It uses blockchain technology to enable secure,
+  privacy-preserving data sharing between insurance carriers and regulators.
 type: Index
 deliveryModel:
   model: unknown
@@ -30,42 +31,43 @@ position: Consuming
 access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/openidl.png
 tags:
-  - Blockchain
-  - Data
-  - Insurance
-  - Linux Foundation
+- Blockchain
+- Data
+- Insurance
+- Linux Foundation
 created: '2026-03-16'
-modified: '2026-04-28'
-url: >-
-  https://raw.githubusercontent.com/api-evangelist/openidl/refs/heads/main/apis.yml
+modified: '2026-09-16'
+url: https://raw.githubusercontent.com/api-evangelist/openidl/refs/heads/main/apis.yml
 specificationVersion: '0.23'
 apis:
-  - aid: openidl:openidl-api
-    name: openIDL API
-    description: >-
-      API for accessing openIDL resources and frameworks for standardized, blockchain-based insurance data sharing between carriers and regulators.
-    humanURL: https://openidl.org/
-    tags:
-      - Data
-      - Insurance
-    properties:
-      - type: Documentation
-        url: https://openidl.org/
-common:
-  - type: DomainSecurity
-    url: security/openidl-domain-security.yml
-  - type: LinkedIn
-    url: https://www.linkedin.com/company/openidl
+- aid: openidl:openidl-api
+  name: openIDL API
+  description: API for accessing openIDL resources and frameworks for standardized, blockchain-based insurance
+    data sharing between carriers and regulators.
+  humanURL: https://openidl.org/
+  tags:
+  - Data
+  - Insurance
+  properties:
   - type: Documentation
-    name: openIDL Documentation
-    description: Official documentation for openIDL.
     url: https://openidl.org/
-  - type: GitHubOrg
-    name: openIDL GitHub
-    description: Source code and repositories for openIDL.
-    url: https://github.com/openidl-org
-  - url: https://openidl.org/feed/
-    type: Blog
+common:
+- type: Website
+  url: https://openidl.org
+- type: DomainSecurity
+  url: security/openidl-domain-security.yml
+- type: LinkedIn
+  url: https://www.linkedin.com/company/openidl
+- type: Documentation
+  name: openIDL Documentation
+  description: Official documentation for openIDL.
+  url: https://openidl.org/
+- type: GitHubOrg
+  name: openIDL GitHub
+  description: Source code and repositories for openIDL.
+  url: https://github.com/openidl-org
+- url: https://openidl.org/feed/
+  type: Blog
 maintainers:
-  - FN: Kin Lane
-    email: info@apievangelist.com
+- FN: Kin Lane
+  email: info@apievangelist.com
