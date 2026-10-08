@@ -52,6 +52,12 @@ apis:
   - type: Documentation
     url: https://openidl.org/
 common:
+- type: Plans
+  url: plans/openidl-plans-pricing.yml
+- type: RateLimits
+  url: rate-limits/openidl-rate-limits.yml
+- type: FinOps
+  url: finops/openidl-finops.yml
 - type: Website
   url: https://openidl.org
 - type: DomainSecurity
